@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdrianoGilbert
 - 👀 I’m interested in Data Science, ML, IA
-- 🌱 I’m currently learning Python, Statistics, Data Science
+- 🌱 I’m currently learning Python, Statistics, R, SQL for Data Science
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me adrianogilbert@hotmail.com
 
